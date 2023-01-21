@@ -1,5 +1,6 @@
 ### Welcome
 [One interesting maket](https://gamaunov.github.io/maket_03/){:target="_blank" rel="noopener"}
+<a href="https://gamaunov.github.io/maket_03/" target="_blank">One interesting maket</a>
 
 [Unofficial-kinopoisk-api](https://gamaunov.github.io/Unofficial-kinopoisk-api/){:target="_blank" rel="noopener"}
 
