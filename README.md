@@ -13,10 +13,6 @@
 
 <img src="https://img.shields.io/badge/npm-024008?style=for-the-badge&logo=npm&logoColor=CB3837"/><img src="https://img.shields.io/badge/Webpack-024008?style=for-the-badge&logo=Webpack&logoColor=8DD6F9"/><img src="https://img.shields.io/badge/Git-024008?style=for-the-badge&logo=Git&logoColor=F05032"/><img src="https://img.shields.io/badge/GitHub-024008?style=for-the-badge&logo=GitHub&logoColor=181717"/>
 
-<img src="https://img.shields.io/badge/WebStorm-024008?style=for-the-badge&logo=WebStorm&logoColor=000000"/><img src="https://img.shields.io/badge/Visual Studio Code-024008?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/><img src="https://img.shields.io/badge/Figma-024008?style=for-the-badge&logo=Figma&logoColor=F24E1E"/>
-
-
-
 
 
 
