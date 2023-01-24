@@ -11,8 +11,7 @@
 
 
 
-<img src="https://img.shields.io/badge/Git-024008?style=for-the-badge&logo=Git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-024008?style=for-the-badge&logo=GitHub&logoColor=181717"/>
+<img src="https://img.shields.io/badge/Git-024008?style=for-the-badge&logo=Git&logoColor=F05032"/><img src="https://img.shields.io/badge/GitHub-024008?style=for-the-badge&logo=GitHub&logoColor=181717"/>
 
 
 
