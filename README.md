@@ -15,7 +15,7 @@
 
 <img src="https://img.shields.io/badge/WebStorm-024008?style=for-the-badge&logo=WebStorm&logoColor=000000"/><img src="https://img.shields.io/badge/Visual Studio Code-024008?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/><img src="https://img.shields.io/badge/Figma-024008?style=for-the-badge&logo=Figma&logoColor=F24E1E"/>
 
-<img src="https://img.shields.io/badge/MDN Web Docs-024008?style=for-the-badge&logo=MDN Web Docs&logoColor=000000"/>
+
 
 
 
