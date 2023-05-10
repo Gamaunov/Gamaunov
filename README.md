@@ -1,8 +1,6 @@
 
 
-[calculator-react](https://gamaunov.github.io/calculator-react/)
-
-[Unofficial-kinopoisk-api](https://gamaunov.github.io/Unofficial-kinopoisk-api/)
+[Bookshop](https://bookshop-rosy.vercel.app/)
 
 [Snake game](https://gamaunov.github.io/Snake/)
 
