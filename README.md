@@ -22,6 +22,10 @@
 <a href="https://git-scm.com/" ><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=000"/></a>
 <a href="https://github.com/" > <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor=181717"/></a>
 
+<a href="https://nextjs.org/" > <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&logoColor=#000000"/></a>
+
+
+
  
 
 
