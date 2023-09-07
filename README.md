@@ -11,12 +11,12 @@
 <a href="https://learn.javascript.ru/" ><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000"/></a>
 <a href="https://www.typescriptlang.org/" > <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=008FC7"/></a>
 <a href="https://react.dev/" > <img src="https://img.shields.io/badge/React-2C3454?style=for-the-badge&logo=React&logoColor=61DAFB"/> </a>
+<a href="https://mobx.js.org/" ><img src="https://img.shields.io/badge/mobx-0A222E?style=for-the-badge&logo=mobx&logoColor=FF9955"/> </a>
 <a href="https://redux.js.org/" ><img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=61DAFB"/> </a>
 <a href="https://reactrouter.com/en/main" > <img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=61DAFB"/> </a>
 <a href="https://redux-saga.js.org/" > <img src="https://img.shields.io/badge/reduxsaga-888888?style=for-the-badge&logo=reduxsaga&logoColor=61DAFB"/> </a>
                   
 <a href="https://lodash.com/" ><img src="https://img.shields.io/badge/lodash-000000?style=for-the-badge&logo=lodash&logoColor=3492FF"/></a> 
-<a href="https://www.npmjs.com/package/dotenv" ><img src="https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=000000"/></a> 
 <a href="https://axios-http.com/ru/docs/intro" ><img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=000000"/></a> 
 <a href="https://www.i18next.com/" ><img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=000000"/></a> 
 
