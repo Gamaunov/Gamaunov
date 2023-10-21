@@ -30,7 +30,7 @@
 <a href="https://www.prisma.io/" > <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=008FC7"/></a>
 
 <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=fff"/></a> 
-<a href="https://www.mongodb.com/" > <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=008FC7"/></a>
+<a href="https://www.mongodb.com/" > <img src="https://img.shields.io/badge/mongodb-092E20?style=for-the-badge&logo=mongodb&logoColor=47A248"/></a>
 <a href="https://jestjs.io/ru/"><img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=000000"/></a> 
 
 
