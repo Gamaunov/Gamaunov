@@ -16,10 +16,6 @@
 <a href="https://reactrouter.com/en/main" > <img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=61DAFB"/> </a>
 <a href="https://redux-saga.js.org/" > <img src="https://img.shields.io/badge/reduxsaga-888888?style=for-the-badge&logo=reduxsaga&logoColor=61DAFB"/> </a>
                   
-<a href="https://lodash.com/" ><img src="https://img.shields.io/badge/lodash-000000?style=for-the-badge&logo=lodash&logoColor=3492FF"/></a> 
-<a href="https://axios-http.com/ru/docs/intro" ><img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=000000"/></a> 
-<a href="https://www.i18next.com/" ><img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=000000"/></a> 
-
 <a href="https://git-scm.com/" ><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=000"/></a>
 <a href="https://github.com/" > <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor=181717"/></a>
 <a href="https://gitlab.com/gamaunov" > <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=#000000"/></a>
