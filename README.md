@@ -31,6 +31,8 @@
 
 <a href="https://jestjs.io/ru/"><img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=000000"/></a> 
 
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff"/></a> 
+
 
  
 
