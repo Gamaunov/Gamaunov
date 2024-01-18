@@ -22,7 +22,6 @@
 
 <a href="https://mongoosejs.com/" > <img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=fff"/></a>
 <a href="https://www.mongodb.com/" > <img src="https://img.shields.io/badge/mongodb-092E20?style=for-the-badge&logo=mongodb&logoColor=47A248"/></a>
-
 <a href="https://www.postgresql.org/" > <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=47A248"/></a>
 <a href="https://typeorm.io/" > <img src="https://img.shields.io/badge/typeform-262627?style=for-the-badge&logo=typeform&logoColor=47A248"/></a>
 
